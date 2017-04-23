@@ -25,7 +25,7 @@ pip install twython
 
 ### sudo chmod +x ./yourfile.py
 
-### Before running block1.py you will need to go into block1.py, and change the following code
+### Before running donation1.py you will need to go into donation.py, and change the following code
 
 ```
 os.system('python /home/pi/Music/yourfile.py')
